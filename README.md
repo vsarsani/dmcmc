@@ -1,4 +1,4 @@
-#dmcmc
+# dmcmc
 
 Implementation of doubly MH MCMC
 
