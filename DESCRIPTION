@@ -1,0 +1,6 @@
+Package: rnbtn
+Type: Notebook
+Title: Implementation of Doubly MH MCMC for digital patahology images. 
+Version: 0.1.0
+Author: Vishal Sarsani
+Maintainer: Vishal Sarsani <vsarsani@umass.edu>
